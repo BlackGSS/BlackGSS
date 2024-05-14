@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Neisum, currently working on a VR multiplayer game.
+Hi! I'm a Unity developer, currently working on a VR multiplayer game and some .Net stuff.
 I mostly develop with Unity and C# but currently I'm learning also some web because why not, I'm into everything.
 
 # 💻 Tech Stack:
