@@ -10,7 +10,7 @@ I mostly develop with Unity and C# but currently I'm learning also some web beca
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Neisum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nathanpedrenomartinez/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NeisumG) 
 ---
 [![](https://visitcount.itsvg.in/api?id=BlackGSS&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Neisum)
+<!--[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Neisum)
   
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BlackGSS&theme=discord&no-frame=true&no-bg=false&margin-w=4)
