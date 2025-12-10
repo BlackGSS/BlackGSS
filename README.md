@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi! I'm a Unity developer, currently working on a VR multiplayer game and some .Net new projects.
-I mostly develop with Unity and C# but currently I'm learning also some web because it's something interesting too.
+Hi! I'm a Unity developer, currently working on a few VR multiplayer games.
+I mostly develop with Unity and C# but currently I'm learning also some web because it's something different to fiddle with.
 
-Love to participate in GameJams and create open source code.
+Love to participate in GameJams and create open source code!
 
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanpedrenomartinez/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NeisumG) 
 
